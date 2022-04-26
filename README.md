@@ -1,5 +1,3 @@
-# RamseySAT
-
 # Ramsey(4-e,7)
 
 # Usage
