@@ -1,0 +1,7 @@
+*.cnf
+*.out
+*.txt
+
+
+
+!.gitignore
